@@ -6,4 +6,4 @@ To tackle this issue following steps are undertaken:
 * Application of macroeconomic theoretical model (a small open economy with a perfect capital mobility)
 * Econometric analysis for structural shift detection
 
-Conclusion: decisions meade by Russian Central Bank are predominantly mispredicted by public.
+Conclusion: decisions made by Russian Central Bank are predominantly mispredicted by public.
